@@ -1,0 +1,1 @@
+Option 1: Academic/Data Science Focused A dataset containing clinical parameters related to heart disease. Includes demographic, diagnostic, and laboratory features intended for exploratory data analysis, visualization, and predictive modeling using machine learning techniques.  Option 2: Simple & Descriptive A collection of heart health records ai
